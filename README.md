@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20유수현입니다.&fontAlign=51&fontSize=52&fontAlignY=46)
+
+[![suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YSH0119)](https://github.com/YSH0119)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYSH0119&count_bg=%2379C83D&title_bg=%231A1717&icon=emlakjet.svg&icon_color=%2325DCD3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
